@@ -1,12 +1,14 @@
 ---
-title: "Making free websites with RStudio's R Markdown"
-author:  "[Julie Lowndes](https://github.com/jules32) at [NCEAS](https://www.nceas.ucsb.edu/), 12/14/16"
+title: "Making free websites with RStudio's R Markdown - Edits!"
+author:  "Nathan Hoteling"
 output:
   html_document:
     fig_width: 1
 ---
 
 ----
+
+Stuff here
 
 It's possible to create well-designed websites for free using [RStudio's R Markdown](http://rmarkdown.rstudio.com/) and hosting them on [Github](http://github.com). This is very new and incredibly cool. It is a really powerful way to communicate science using the same reproducible workflow you use for your analyses and collaborations.
 
